@@ -1,10 +1,23 @@
 #moziNev{
     text-align: center;
-    color: red;
+    color: firebrick;
 }
+
+#korOsztaly{
+    color: rgb(8, 71, 73);
+    font-size:  30px;
+    text-align: center;
+}
+
+.kartya{
+    padding: 5px;
+    background-color: rgb(74, 34, 5);
+}
+
 
 .kozep{
     text-align: center;
+    color:rgb(74, 34, 129) ;
 }
 
 .balra{
@@ -39,16 +52,17 @@
     text-align: right;
     height: auto;
     overflow: hidden;
-    background-color: lightseagreen;
+    background-color: rgb(23, 95, 92);
     padding: 10px;
 }
+
 p{
     font-size: 140%;
     text-align: justify;
 }
 
 body{
-    background-color: goldenrod;
+    background-color:rgb(63, 172, 79);
 }
 
 img{
