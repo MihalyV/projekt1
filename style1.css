@@ -1,0 +1,74 @@
+#moziNev{
+    text-align: center;
+    color: firebrick;
+    
+}
+
+#korOsztaly{
+    color: rgb(8, 71, 73);
+    font-size:  30px;
+    text-align: center;
+}
+
+.kartya{
+    padding: 5px;
+    background-color: rgb(48, 50, 55);
+    
+}
+
+
+.kozep{
+    text-align: center;
+    color: #ffffff ;
+}
+
+.balra{
+    float: left;
+    margin-right: 50px;
+}
+
+.jobbra{
+    float: right;
+    margin-left: 50px;
+    text-align: left;
+}
+
+.jobbraSzoveg{
+    text-align: right;
+}
+
+.kepBalra{
+    padding-left: 20px;
+}
+
+.keretes{
+    border: 2px solid black;
+    height: auto;
+    overflow: hidden;
+    background-color: rgb(48, 50, 55);
+    padding: 10px;
+}
+
+.keretesJobb{
+    border: 2px solid black;
+    text-align: right;
+    height: auto;
+    overflow: hidden;
+    background-color:rgb(23, 24, 27);
+    padding: 10px;
+}
+
+p{
+    font-size: 140%;
+    text-align: justify;
+    color: #ffffff;
+}
+
+body{
+    background-color: black;
+}
+
+img{
+    width: 259px;
+    height: 384px
+}

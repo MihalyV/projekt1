@@ -1,0 +1,10 @@
+body{
+    background-image: url(hatter4.png)
+}
+#tartalom{
+    background-color: rgba(187, 224, 235, 0.767);
+    padding: 2%;
+    border-radius: 2%;
+}
+
+
